@@ -4,7 +4,7 @@ public class SumatoriaRecursiva {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        //
+        //Solicita al usuario que ingrese el numero para realizar la sumatoria
         System.out.println("ingrese el numero");
         int numero = s.nextInt();
 
